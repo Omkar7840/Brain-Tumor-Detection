@@ -13,6 +13,7 @@ model = load_model(MODEL_PATH)
 
 # Streamlit app
 st.title("Brain Tumor Detection")
+st.write("You can use various MRI images from kaggle dataset to test the model")
 st.write("Upload an image to determine if it indicates a brain tumor or is healthy.")
 
 # File uploader
