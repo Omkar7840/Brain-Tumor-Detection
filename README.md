@@ -2,6 +2,9 @@
 
 This project involves detecting brain tumors from MRI images using Convolutional Neural Networks (CNNs). The model leverages transfer learning with pre-trained architectures like EfficientNetB0 and MobileNet, enhancing them for binary classification tasks.
 
+## Streamlit Link
+ You can try this model on Streamlit by accessing this link: https://brain-tumor-detection-amgpynunfvt5yce5ahwv2r.streamlit.app/
+ 
 ## Project Overview
 
 ### Data Management
