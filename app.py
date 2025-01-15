@@ -59,9 +59,9 @@ if uploaded_file is not None:
 
         # Map prediction to class label
         if prediction == 0:
-            st.write("Prediction: Healthy")
+            st.write("Healthy Brain")
         else:
-            st.write("Prediction: Brain Tumor")
+            st.write("The Brain has Tumor")
     except Exception as e:
         st.error(f"Error processing the image: {e}")
 
