@@ -3,3 +3,9 @@ tensorflow
 numpy
 opencv-python
 pillow
+cv2
+matplotlib
+pandas
+seaborn
+scikit-learn
+opencv-python
